@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: monospace;
+  color: red;
+}
+
+.three {
+  color: green;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* li ~ li */
+li + li {
+  background-color: black;
+  color: white;
+}
+
+/* ol li */
+ol > li {
+  background-color: black;
+  color: white;
+}

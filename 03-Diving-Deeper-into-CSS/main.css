@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+div {
+  padding: 64px 48px 32px 16px;
+  border: 3px solid orangered;
+  margin: 16px 32px 48px 64px;
+  display: inline-block;
+}
+
+.box1 {
+  /* height: 100%; */
+  box-sizing: border-box;
+  height: 300px;
+  width: 50%;
+  display: none;
+}
+
+div:last-of-type:hover {
+  background: lightgreen;
+}
+
+/* body div:last-child {
+  background: lightskyblue;
+} */
