@@ -1,0 +1,44 @@
+.package {
+  width: 80%;
+  margin: 0 0 16px -5px;
+}
+
+.package a {
+  display: block;
+  border: 5px solid #0e4f1f;
+  padding: 32px;
+  text-decoration: none;
+}
+
+.package a:hover,
+.package a:active {
+  border: 5px solid #ff1b68;
+}
+
+.package__plus {
+  background: #d5ffdc;
+  margin-top: 32px;
+}
+.package__free {
+  background: #e7f8eb;
+}
+.package__premium {
+  background: #0e4f1f;
+}
+
+.package__plan {
+  color: black;
+}
+.package__premium .package__plan {
+  color: white;
+}
+.package__title {
+  color: grey;
+}
+.package__feature {
+  padding: 16px;
+  border: 1px solid #0e4f1f;
+  background: white;
+  color: #0e4f1f;
+  font-size: 18px;
+}
