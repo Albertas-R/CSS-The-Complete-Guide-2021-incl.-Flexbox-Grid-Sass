@@ -64,3 +64,11 @@
 - [Filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
 - [Styling SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_and_CSS)
+
+
+## 08 Sizes & Units
+
+- [Font size properties and values](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+
+- [Hiding Vertical Scrollbars with Pure CSS in Chrome, IE (6+), Firefox, Opera, and Safari](https://web.archive.org/web/20180505112131/https://blogs.msdn.microsoft.com/kurlak/2013/11/03/hiding-vertical-scrollbars-with-pure-css-in-chrome-ie-6-firefox-opera-and-safari/)
+
