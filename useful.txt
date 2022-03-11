@@ -78,3 +78,12 @@
 - [JavaScript CSS Styles](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style)
 
 - [classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
+
+## 10 Making our Website Responsive
+
+- [Absolute lengths on W3.org](https://www.w3.org/TR/css-values-3/#absolute-lengths)
+
+- [Media queries theory](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
+
+- [Applying media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
