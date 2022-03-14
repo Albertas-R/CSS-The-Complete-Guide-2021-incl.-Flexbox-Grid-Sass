@@ -87,3 +87,9 @@
 - [Media queries theory](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
 
 - [Applying media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+## 11 Adding & Styling Forms 
+
+- [Styling Form Elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
+
+- [Styling a <select> Element](https://stackoverflow.com/questions/1895476/how-to-style-a-select-dropdown-with-css-only-without-javascript)
