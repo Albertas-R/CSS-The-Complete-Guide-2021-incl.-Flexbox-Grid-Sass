@@ -93,3 +93,11 @@
 - [Styling Form Elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
 
 - [Styling a <select> Element](https://stackoverflow.com/questions/1895476/how-to-style-a-select-dropdown-with-css-only-without-javascript)
+
+## 12 Working with Text and Fonts
+
+- [Web Safe Fonts](https://www.cssfontstack.com/)
+
+- [The "line-height" property](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+
+- [Google Fonts](https://fonts.google.com/)
