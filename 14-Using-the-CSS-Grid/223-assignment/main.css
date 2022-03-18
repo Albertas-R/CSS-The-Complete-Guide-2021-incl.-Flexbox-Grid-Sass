@@ -23,32 +23,37 @@ header {
   background: lightsalmon;
   border: 1px solid lightseagreen;
   padding: 16px;
-  grid-column-start: 1;
-  grid-column-end: -1;
+  /* grid-column-start: 1;
+  grid-column-end: -1; */
+  grid-column: 1 / -1;
 }
 
 main {
   background: lightgreen;
   border: 1px solid lightslategray;
   padding: 16px;
-  grid-column-start: 2;
-  grid-column-end: 3;
+  /* grid-column-start: 2;
+  grid-column-end: 3; */
+  grid-column: 2 / 3;
 }
 
 aside {
   background: lightskyblue;
   border: 1px solid lightgoldenrodyellow;
   padding: 16px;
-  grid-column-start: 1;
+  /* grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 2;
-  grid-row-end: 3;
+  grid-row-end: 3; */
+  /* grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end; */
+  grid-area: 2 / 1 / 3 / 2;
 }
 
 footer {
   background: lightgrey;
   border: 1px solid lightpink;
   padding: 16px;
-  grid-column-start: 1;
-  grid-column-end: -1;
+  /* grid-column-start: 1;
+  grid-column-end: -1; */
+  grid-column: 1 / -1;
 }
