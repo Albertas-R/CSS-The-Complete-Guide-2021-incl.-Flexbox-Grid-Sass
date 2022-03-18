@@ -9,23 +9,46 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  padding: 32px;
+  padding: 16px;
+  margin: 16px;
   border: 1px solid lightblue;
+
   display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 4.5rem auto 4.5rem;
+  height: calc(100vh - 8px * 2);
 }
 
 header {
   background: lightsalmon;
-}
-
-aside {
-  background: lightskyblue;
+  border: 1px solid lightseagreen;
+  padding: 16px;
+  grid-column-start: 1;
+  grid-column-end: -1;
 }
 
 main {
   background: lightgreen;
+  border: 1px solid lightslategray;
+  padding: 16px;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+aside {
+  background: lightskyblue;
+  border: 1px solid lightgoldenrodyellow;
+  padding: 16px;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 footer {
   background: lightgrey;
+  border: 1px solid lightpink;
+  padding: 16px;
+  grid-column-start: 1;
+  grid-column-end: -1;
 }
