@@ -22,6 +22,8 @@ body {
     "header header"
     "side main"
     "footer footer";
+
+    gap: 16px;
 }
 
 header {
